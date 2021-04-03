@@ -1,6 +1,7 @@
 # restaurants
 List of favorite SF restaurants
 
- NAME | RESTAURANT 
+ NAME | RESTAURANT | CITY
 ---|---
-Lisa Leese | Flour + Water
+Lisa Leese | Flour + Water | San Francisco
+Flory Alano | Boiling Crab | Santa Clara
